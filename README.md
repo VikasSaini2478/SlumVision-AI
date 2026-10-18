@@ -1,4 +1,13 @@
-# SlumVision-AI
+
+<div align="center">
+
+# SlumVision AI
+
+### AI-Powered Informal Settlement Detection & Mapping
+
+<img src="https://github.com/user-attachments/assets/7cedb3bf-ae65-4c1a-bc5f-6877f35964fd" alt="SlumVision AI — Satellite Imagery and Deep Learning for Geospatial Mapping" width="1000" height="400"/>
+
+</div>
 
 An end-to-end deep learning framework for detecting and mapping informal
 settlements (slums) from high-resolution satellite imagery. Hybrid
