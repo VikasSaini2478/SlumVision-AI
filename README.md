@@ -1,4 +1,4 @@
-# SlumNet
+# SlumVision-AI
 
 An end-to-end deep learning framework for detecting and mapping informal
 settlements (slums) from high-resolution satellite imagery. Hybrid
